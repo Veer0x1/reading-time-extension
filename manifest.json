@@ -22,7 +22,7 @@
     {
       "js": ["scripts/blog_content.js"],
       "matches": [
-        "https://nextjs.org/docs/*"
+       "<all_urls>","http://*/*","https://*/*"
       ]
     }
   ]
